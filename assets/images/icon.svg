@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Film Diary">
+  <rect width="512" height="512" rx="112" fill="#0c0c0e"/>
+  <rect x="36" y="36" width="440" height="440" rx="84" fill="none" stroke="#26262b" stroke-width="6"/>
+  <path d="M294 134a124 124 0 1 0 98 199 102 102 0 1 1-98-199Z" fill="#e8e2d5"/>
+  <circle cx="332" cy="184" r="10" fill="#d4a853"/>
+</svg>
